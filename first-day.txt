@@ -1,0 +1,7 @@
+PWD (print working directory) - where we are
+LS - check what is in your working directory 
+CD - change enter direcotry
+CD .. - go back one level to previus direcotry 
+MKDIR - create directory 
+TOUCH - create 
+Open -open 
